@@ -149,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620250643756</updated>
       <workItem from="1620250645508" duration="1421000" />
-      <workItem from="1620254404502" duration="6638000" />
+      <workItem from="1620254404502" duration="7921000" />
     </task>
     <servers />
   </component>
@@ -157,6 +157,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/devise_token_auth@Development__devise_token_auth.rcov" NAME="Development: devise_token_auth Coverage Results" MODIFIED="1620268723867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="devise_token_auth" />
+    <SUITE FILE_PATH="coverage/devise_token_auth@Development__devise_token_auth.rcov" NAME="Development: devise_token_auth Coverage Results" MODIFIED="1620271340508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="devise_token_auth" />
   </component>
 </project>
